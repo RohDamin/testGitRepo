@@ -7,3 +7,6 @@ func 6
 func 7
 func 8
 func 9
+
+new branch
+func1
