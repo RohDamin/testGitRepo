@@ -2,5 +2,9 @@ Test 2
 version A
 
 func 1
+<<<<<<< HEAD
 func 2
 func 3
+=======
+func 2
+>>>>>>> 48704bd1302f9fc51944d9755c33105e724d79f7
