@@ -1,6 +1,7 @@
 signUp function
 
 func 1
+func 4
 func 5
 func 6
 func 7
